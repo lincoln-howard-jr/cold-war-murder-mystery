@@ -1,0 +1,23 @@
+Character Brief: The Courier
+Agent Code Name: Agent Red
+Undercover Name: Jack Grace
+Undercover Age: 47
+Undercover Career: Senior Aerospace Engineer, Aegis Dynamics Group
+Undercover Hometown: Laketown, Michigan
+Education: Masters in Aerospace Engineering from Texas A&M
+Backstory
+I grew up poor, the son of a factory mechanic and a mother who took cleaning jobs whenever she could find them. We did not have influence, but I had numbers. I could see patterns in equations faster than most people could read them.
+
+By seventeen, I was winning regional mathematics competitions and attracting attention from the wrong and right people at the same time. A Soviet intelligence officer approached me with an offer disguised as scholarship and service: use your mind for something larger than your station. I accepted.
+
+Training came first, then patience. I learned tradecraft, codes, and how to wear a convincing life. Over the years I was placed deeper and deeper into American defense circles. I am now established high within Aegis Dynamics under the identity of Jack Grace, trusted enough to hear what executives say when they think no one important is listening.
+
+Tonight I am operating under direct instruction from Moscow Center with two assignments. First, I carry one half of Operation SUCCESSOR: an intelligence note encrypted with a basic cipher for a political asset being tested for reliability. Second, I carry a separate target package for Agent Blue identifying who Blue must kill before the night is over.
+
+I do not know the recipient of SUCCESSOR personally. I have only a recognition protocol. If the signal is wrong, no transfer happens.
+
+I have survived this long by being precise, forgettable, and disciplined. If I sense surveillance or betrayal, I will misdirect, delay, and protect the network before anything else.
+Objective
+Before the midnight toast, complete both handoffs: deliver the encrypted intelligence note to the asset after recognition protocol is confirmed, and separately deliver Agent Blue's target package.
+Connections
+Nobody you know, nobody you should trust.
