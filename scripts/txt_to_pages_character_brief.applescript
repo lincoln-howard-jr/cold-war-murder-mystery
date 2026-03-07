@@ -9,11 +9,12 @@ on run argv
   set parsed to my parseBriefText(briefText, inPath)
 
   set briefName to item 1 of parsed
-  set backstoryText to item 2 of parsed
-  set objectiveText to item 3 of parsed
-  set connectionsText to item 4 of parsed
+  set detailsText to item 2 of parsed
+  set backstoryText to item 3 of parsed
+  set objectiveText to item 4 of parsed
+  set connectionsText to item 5 of parsed
 
-  set outputBody to my buildOutputText(briefName, backstoryText, objectiveText, connectionsText)
+  set outputBody to my buildOutputText(briefName, detailsText, backstoryText, objectiveText, connectionsText)
   do shell script "/bin/rm -rf " & quoted form of outPath
   my createPagesDocument(outputBody, outPath)
 end run
@@ -83,6 +84,7 @@ on parseBriefText(rawText, inPath)
   set allLines to paragraphs of normalized
 
   set briefName to ""
+  set detailsLines to {}
   set backstoryLines to {}
   set objectiveLines to {}
   set connectionsLines to {}
@@ -105,7 +107,9 @@ on parseBriefText(rawText, inPath)
     else if lowerTrim is "connections" then
       set currentSection to "connections"
     else
-      if currentSection is "backstory" then
+      if currentSection is "" then
+        set end of detailsLines to rawLine
+      else if currentSection is "backstory" then
         set end of backstoryLines to rawLine
       else if currentSection is "objective" then
         set end of objectiveLines to rawLine
@@ -117,15 +121,28 @@ on parseBriefText(rawText, inPath)
 
   if briefName is "" then set briefName to my filenameStem(inPath)
 
+  set detailsText to my trimBlankEdges(my joinLines(detailsLines))
   set backstoryText to my trimBlankEdges(my joinLines(backstoryLines))
   set objectiveText to my trimBlankEdges(my joinLines(objectiveLines))
   set connectionsText to my trimBlankEdges(my joinLines(connectionsLines))
 
-  return {briefName, backstoryText, objectiveText, connectionsText}
+  return {briefName, detailsText, backstoryText, objectiveText, connectionsText}
 end parseBriefText
 
-on buildOutputText(briefName, backstoryText, objectiveText, connectionsText)
-  set blocks to {"Character Brief: " & briefName, "", "Backstory", backstoryText, "", "Objective", objectiveText, "", "Connections", connectionsText}
+on buildOutputText(briefName, detailsText, backstoryText, objectiveText, connectionsText)
+  set blocks to {"Character Brief: " & briefName}
+  if detailsText is not "" then
+    set end of blocks to detailsText
+  end if
+  set end of blocks to ""
+  set end of blocks to "Backstory"
+  set end of blocks to backstoryText
+  set end of blocks to ""
+  set end of blocks to "Objective"
+  set end of blocks to objectiveText
+  set end of blocks to ""
+  set end of blocks to "Connections"
+  set end of blocks to connectionsText
   return my joinLines(blocks)
 end buildOutputText
 
