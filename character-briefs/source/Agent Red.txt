@@ -1,0 +1,36 @@
+Character Brief: Agent Red
+Agent Code Name: Agent Red
+Cover Name: Evelyn Price
+Cover Age: 34
+Cover Career: Arts fundraiser and political donor liaison
+Cover Hometown: Bethesda, Maryland
+Education: Georgetown University, BA in Art History
+Hidden Weapon: A narrow stiletto concealed inside your evening clutch
+Backstory
+I was not raised for espionage. I was raised for rooms like this one.
+
+I learned early how power behaves at close range. It laughs too loudly after the third drink. It mistakes attention for loyalty. It tells the truth when it thinks the woman beside it is decorative.
+
+That talent built my life in Washington. I became useful to galleries, donor boards, campaign hosts, and eventually to men like Victor Hale, who prefer a woman who can glide through a room, remember every name, and never appear to be keeping score. Publicly, I am his elegant new girlfriend. Privately, I know which senators he flatters, which journalists he fears, which contracts he calls "stability," and which secrets make him stop smiling.
+
+I did not choose Moscow. Moscow chose my vulnerability.
+
+Years ago, during a messy financial collapse I buried evidence of donor money I had quietly misused to stay afloat. It was desperate, temporary, and criminal enough to destroy me if it ever surfaced. The KGB found the paper trail before anyone else did. They offered me a simple arrangement: stay charming, stay close to power, and pass along what I learn. I told myself it would be gossip, then schedules, then harmless scraps. That was the lie that got me here.
+
+Now I am too valuable to release and too compromised to refuse. Tonight I carry the second half of Operation SCSR: the cipher key meant for the political asset awaiting a recognition signal. I also carry a more direct instruction. Agent Blue will identify who Moscow wants dead. When the target is known, I am expected to act.
+
+Victor thinks I am at his side because I admire power. That is only half true. I admire leverage more. And tonight, in a room full of polished liars and accidental patriots, I may be the one holding the sharpest edge.
+Objective
+Before the midnight toast, complete your side of the split drop: deliver the SCSR cipher key to the intended recipient only after the recognition protocol is correctly confirmed.
+
+Receive the target package from Agent Blue and learn who must die before the night is over.
+
+If the opportunity presents itself, kill the named target using the stiletto hidden in your clutch without exposing yourself, Victor Hale, or the Soviet network.
+Connections
+Victor Hale (<played by>) - Your cover, your access point, and a man who has told you far more than he realizes. He sees you as polished company. You see every crack in the mask.
+
+Agent Blue (<played by>) - You know Blue only through compartmented tradecraft, a handoff protocol, and the expectation that Blue will tell you who Moscow has marked for death.
+
+The SCSR recipient (<played by>) - You do not know who they are openly. You know only the recognition signal, the cipher key in your possession, and that Moscow considers them worth the risk.
+
+Charles Whitmore (<played by>) - The guest of honor. Victor has spoken of him often enough that you know where the diplomacy ends and the procurement begins.
