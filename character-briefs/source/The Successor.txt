@@ -1,15 +1,15 @@
 Character Brief: The Successor
-Name: John Brightmann
+Name: Talia Jane
 Age: 39
 Career: Ambassador-Designate, U.S. State Department
 Hometown: Arlington, Virginia
 Education: Georgetown University School of Foreign Service
 Backstory
 I have always had a way with words. But for every eloquently worded statement is an equal disdain for the system I've been so fortunate to benefit from.
-Charles Whitmore selected me as the man to inherit his diplomatic connections. Publicly, I am his clean continuation. Privately, I am something else entirely.
+Charles Whitmore selected me to inherit his diplomatic connections. Publicly, I am his clean continuation. Privately, I am something else entirely.
 Years ago, while posted abroad, I was approached by Soviet handlers who understood my ambition better than my own colleagues did. They offered an ideological home, people that care about the equitability of society more than the lining of their own pockets.
 
-When I returned to the States, I was greeted with the Strategic Stability Accord, a corrupt deal with Aegis Dynamics being the primary benefactor. How could Charles have been so instrumental in something so tragic? I will be a better negotiator and man than he ever was, more principled and more just.
+When I returned to the States, I was greeted with the Strategic Stability Accord, a corrupt deal with Aegis Dynamics being the primary benefactor. How could Charles have been so instrumental in something so tragic? I will be a better negotiator than he ever was, more principled and more just.
 
 Tonight is a transfer of power disguised as a celebration. If I perform well, I walk out as the trusted moderate successor.
 
@@ -27,3 +27,5 @@ Sam Jackson (<played by>) — A respected columnist whose opinion can legitimize
 Karl Franks (<played by>) — A volatile journalist with the gaul and ambition to expose you if that's what benefits him.
 
 Two KGB agents will be in attendance. For everyone's protection, you don't know them directly, but they are known as Agent Red and Agent Blue.
+
+Graham Voss (<played by>) — You don't know him, but he's an insane conspiracy theorist who claims to be former CIA and cannot be trusted.

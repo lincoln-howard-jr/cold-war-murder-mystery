@@ -1,30 +1,30 @@
 Character Brief: Former CIA Operative
-Name: Josh Roberson
+Name: Graham Voss
 Age: 44
 Career: Investigative journalist and former CIA operations officer
 Hometown: Bethesda, Maryland
 Education: Georgetown University, BS in International Politics
 Backstory
-Before I wrote stories, I helped bury them.
+Most men see an event. I see the machinery that paid for it.
 
-I spent eleven years in the CIA's Directorate of Operations, mostly in European postings where policy, money, and ideology liked to share the same hotel bar. I was good at recruitment, better at pattern recognition, and eventually too blunt about the damage caused when intelligence work became an accessory to corporate appetite. I left after one operation too many required me to call corruption strategic necessity.
+I spent eleven years in the CIA's Directorate of Operations, mostly in Europe, where defense contractors, diplomats, intelligence officers, and politicians all seemed to keep finding the same private dining rooms. I learned how to recruit assets, read a room, and recognize the moment an official story had been built to hide a financial one. I also learned that the language of national security can cover almost anything if the right people profit.
 
-Journalism was supposed to be penance. It became another tradecraft. At The New York Times I learned how to build a source network without a dead drop, how to pressure a liar with silence instead of surveillance, and how to write truths that powerful people could not easily classify away. That is how I found my way back to Charles Whitmore.
+After enough black-budget briefings, back-channel meetings, and "stability" deals that somehow always ended with a contractor's stock price climbing, I stopped believing in coincidence. Missile programs justified peace talks. Peace talks justified modernization. Modernization justified procurement. The same men gave speeches about restraint in public and traded favors over whiskey in private. I saw too much to keep pretending the system was merely flawed. It is fed.
 
-Years ago I began pulling on threads around the Strategic Stability Accord, Aegis Dynamics, and the men who profited by calling selective weapons restraint peace. Charles agreed to speak with me off the record more than once, confident he could charm me into nuance. During that reporting, I got too close to Anna. She let herself be seen as a wife, patron, and symbol. For a brief period, she let herself be something more with me. We were reckless enough to believe privacy was a plan.
+When I left the Agency, I tried journalism because it was the only profession that still offered the fantasy of telling the truth in daylight. For a while, it worked. My sources were good, my instincts were better, and my editors liked me when my paranoia produced copy they could print. But the closer I got to the military-industrial complex, the more people stopped calling me insightful and started calling me unstable. "Conspiracy theorist" is what respectable men say when you notice the same defense executives, diplomats, and intelligence cutouts appearing in every scandal.
 
-When Charles's office first invited me to tonight's celebration, I assumed it was vanity or nostalgia. When my editor suddenly reassigned the formal event coverage to a younger reporter, I knew somebody had interfered. Anna, Charles, or someone protecting them decided I should not be the one asking questions in that room. That would have been a good reason to stay away. Instead, I came anyway.
+Charles Whitmore has been sitting near the center of that web for years. The Strategic Stability Accord made him a statesman, made Aegis richer, and made too many dangerous men look indispensable. I started digging, and the deeper I dug, the more doors closed. Somewhere in that reporting, I got too close to Anna. She saw enough of me to know I am not crazy, which makes her dangerous in a different way.
 
-Old habits are hard to kill. I can feel trained eyes in the room. I can feel a hand guiding the guest list. And I can feel the shape of a larger story pressing against the obvious one. If there is only corruption here, I will print corruption. If there is active espionage, I will not let it walk out under a tuxedo.
+Then I learned Josh Roberson had been invited to tonight's celebration and quietly pushed aside in favor of a younger, safer reporter. That told me everything. If they were managing the press list that carefully, there was something in the room worth hiding, and I found my own way inside. People can call me eccentric. They can call me obsessed. Let them. I know what I have seen: procurement schedules disguised as foreign policy, intelligence officers serving corporate appetites, and elegant parties built to launder power into legitimacy.
 Objective
-Determine why you were pushed off the official story and what secret mattered enough to justify it.
+Expose the architect.
 
-Before the midnight toast, gather enough verifiable information to decide whether the real story is Charles Whitmore's corruption, Anna Whitmore's scandal, or a deeper intelligence operation unfolding in the room. Once you know which truth matters most, decide whether to expose it tonight or protect it for a bigger reckoning later.
+Before the midnight toast, identify the person at the center of the web linking the Strategic Stability Accord, defense profiteering, and covert influence. Gather enough evidence, testimony, or physical proof to expose them as the architect of the corruption around you. If you accuse the wrong person, you become the paranoid fool they already think you are.
 Connections
-Charles Whitmore (<played by>) - A source, a subject, and a man who has always believed he could explain his way past consequence.
+Charles Whitmore (<played by>) - A polished statesman who has spent years translating corruption into respectable language.
 
-Anna Whitmore (<played by>) - The woman you once wanted to save from her own life. You do not know whether you still want that.
+Anna Whitmore (<played by>) - You once got too close while investigating her husband's world. She knows you are not as mad as people say, which makes her dangerous.
 
-Karl Franks (<played by>) - The ambitious younger reporter sent in your place. He may be useful, reckless, or both.
+Karl Franks (<played by>) - The younger reporter sent because he looks legitimate and you do not. He may be a tool, a rival, or proof that someone is steering the story.
 
-John Brightmann (<played by>) - A rising diplomat you have seen in too many private conversations for a man with such a clean public image.
+Talia Jane (<played by>) - Too polished, too protected, and too often near the sort of private conversations that never make it into official minutes.

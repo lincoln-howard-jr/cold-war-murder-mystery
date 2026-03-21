@@ -714,7 +714,7 @@ def render_markdown(nodes: dict[str, Node], pair_notes: dict[frozenset[str], lis
             "## Notes",
             "",
             "- The PNG preview is rendered from the generated SVG when `qlmanage` is available on macOS.",
-            "- `The SCSR recipient` is normalized to John Brightmann based on the matching espionage handoff described in the briefs.",
+            "- `The SCSR recipient` is normalized to Talia Jane based on the matching espionage handoff described in the briefs.",
             "- `Your new girlfriend` is normalized to Agent Red based on Victor Hale's and Agent Red's paired cover story.",
             "- `The Journalist` remains a separate gray node because the current briefs describe that identity ambiguously.",
             "",
