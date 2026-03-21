@@ -14,17 +14,17 @@ Auto-generated from the `Connections` sections in `character-briefs/source/*.txt
 ## Connected Characters
 
 - **Charles Whitmore (Ambassador)**: Agent Red, Alice Harden, Anna Whitmore, Eleanor Mercer, Graham Voss, Josh Roberson, Maggie Bell, President Daniel Mercer, Sam Grossman, Sam Jackson, Talia Jane, Thing 1, Victor Hale
-- **Victor Hale (The Executive)**: Agent Blue, Agent Red, Anna Whitmore, Charles Whitmore, Eleanor Mercer, Graham Voss, Karl Franks, President Daniel Mercer, Talia Jane, Thing 1, Thing 2
 - **Anna Whitmore (The Wife)**: Alice Harden, Charles Whitmore, Eleanor Mercer, Graham Voss, Maggie Bell, Sam Grossman, Sam Jackson, Talia Jane, Thing 2, Victor Hale
 - **Graham Voss (Former CIA Operative)**: Anna Whitmore, Charles Whitmore, Eleanor Mercer, Karl Franks, President Daniel Mercer, Sam Jackson, Talia Jane, Thing 1, Thing 2, Victor Hale
+- **Victor Hale (The Executive)**: Agent Blue, Agent Red, Anna Whitmore, Charles Whitmore, Graham Voss, Karl Franks, President Daniel Mercer, Talia Jane, Thing 1, Thing 2
 - **Talia Jane (The Successor)**: Agent Blue, Agent Red, Anna Whitmore, Charles Whitmore, Graham Voss, Karl Franks, President Daniel Mercer, Sam Jackson, Victor Hale
-- **Eleanor Mercer (First Lady)**: Anna Whitmore, Charles Whitmore, Graham Voss, President Daniel Mercer, Thing 1, Thing 2, Victor Hale
+- **Eleanor Mercer (First Lady)**: Anna Whitmore, Charles Whitmore, Graham Voss, Karl Franks, President Daniel Mercer, Sam Jackson, Thing 1, Thing 2
 - **President Daniel Mercer (President)**: Charles Whitmore, Eleanor Mercer, Graham Voss, Talia Jane, Thing 1, Thing 2, Victor Hale
+- **Sam Jackson (The Childhood Confidant)**: Alice Harden, Anna Whitmore, Charles Whitmore, Eleanor Mercer, Graham Voss, Karl Franks, Talia Jane
 - **Thing 2 (Marcus Donnelly)**: Anna Whitmore, Eleanor Mercer, Graham Voss, Karl Franks, President Daniel Mercer, Thing 1, Victor Hale
-- **Sam Jackson (The Childhood Confidant)**: Alice Harden, Anna Whitmore, Charles Whitmore, Graham Voss, Karl Franks, Talia Jane
+- **Karl Franks (The Replacement)**: Eleanor Mercer, Graham Voss, Sam Jackson, Talia Jane, Thing 2, Victor Hale
 - **Thing 1 (Raymond Kessler)**: Charles Whitmore, Eleanor Mercer, Graham Voss, President Daniel Mercer, Thing 2, Victor Hale
 - **Alice Harden (The Second Fiddle)**: Anna Whitmore, Charles Whitmore, Maggie Bell, Sam Grossman, Sam Jackson
-- **Karl Franks (The Replacement)**: Graham Voss, Sam Jackson, Talia Jane, Thing 2, Victor Hale
 - **Sam Grossman (The Romantic Fool)**: Alice Harden, Anna Whitmore, Charles Whitmore, Maggie Bell, The Journalist
 - **Agent Red (Evelyn Price)**: Agent Blue, Charles Whitmore, Talia Jane, Victor Hale
 - **Maggie Bell (The Sloppy Sister)**: Alice Harden, Anna Whitmore, Charles Whitmore, Sam Grossman
