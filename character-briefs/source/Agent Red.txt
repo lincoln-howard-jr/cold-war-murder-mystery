@@ -27,10 +27,10 @@ Receive the target package from Agent Blue and learn who must die before the nig
 
 If the opportunity presents itself, kill the named target using the stiletto hidden in your clutch without exposing yourself, Victor Hale, or the Soviet network.
 Connections
-Victor Hale (<played by>) - Your cover, your access point, and a man who has told you far more than he realizes. He sees you as polished company. You see every crack in the mask.
+Victor Hale (Kevin) - Your cover, your access point, and a man who has told you far more than he realizes. He sees you as polished company. You see every crack in the mask.
 
-Agent Blue (<played by>) - You know Blue only through compartmented tradecraft, a handoff protocol, and the expectation that Blue will tell you who Moscow has marked for death.
+Agent Blue - You know Blue only through compartmented tradecraft, a handoff protocol, and the expectation that Blue will tell you who Moscow has marked for death.
 
-The SCSR recipient (<played by>) - You do not know who they are openly. You know only the recognition signal, the cipher key in your possession, and that Moscow considers them worth the risk.
+The SCSR recipient - You do not know who they are openly. You know only the recognition signal, the cipher key in your possession, and that Moscow considers them worth the risk.
 
-Charles Whitmore (<played by>) - The guest of honor. Victor has spoken of him often enough that you know where the diplomacy ends and the procurement begins.
+Charles Whitmore (Jacob) - The guest of honor. Victor has spoken of him often enough that you know where the diplomacy ends and the procurement begins.

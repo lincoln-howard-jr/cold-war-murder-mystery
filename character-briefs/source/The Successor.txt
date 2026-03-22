@@ -18,14 +18,12 @@ My handlers have arranged a split drop to protect the network. One agent carries
 Objective
 Before the midnight toast, obtain both halves of your KGB drop from two unknown contacts: the encrypted intelligence note from one and the cipher key from the other. Decode the message and use what you learn to strengthen your path to succession, while preserving your public image as a calm moderate.
 Connections
-Charles Whitmore (<played by>) — Your predecessor and public sponsor. He believes you are a safe continuation of his legacy.
+Charles Whitmore (Jacob) — Your predecessor and public sponsor. He believes you are a safe continuation of his legacy.
 
-Anna Whitmore (<played by>) — She sees you as polished and useful, but she is perceptive enough to notice cracks in your facade.
+Anna Whitmore (Jana) — She sees you as polished and useful, but she is perceptive enough to notice cracks in your facade.
 
-Sam Jackson (<played by>) — A respected columnist whose opinion can legitimize your rise if he trusts your character.
-
-Karl Franks (<played by>) — A volatile journalist with the gaul and ambition to expose you if that's what benefits him.
+Sam Jackson (Elliot) — A respected columnist whose opinion can legitimize your rise if he trusts your character.
 
 Two KGB agents will be in attendance. For everyone's protection, you don't know them directly, but they are known as Agent Red and Agent Blue.
 
-Graham Voss (<played by>) — You don't know him, but he's an insane conspiracy theorist who claims to be former CIA and cannot be trusted.
+Graham Voss (Josh) — You don't know him, but he's an insane conspiracy theorist who claims to be former CIA and cannot be trusted.

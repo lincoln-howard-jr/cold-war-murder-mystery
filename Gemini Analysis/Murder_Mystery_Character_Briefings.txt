@@ -1,0 +1,517 @@
+Filename: Agent Red.txt
+Character Brief: Agent Red
+Agent Code Name: Agent Red
+Cover Name: Evelyn Price
+Cover Age: 34
+Cover Career: Arts fundraiser and political donor liaison
+Cover Hometown: Bethesda, Maryland
+Education: Georgetown University, BA in Art History
+Hidden Weapon: A narrow stiletto concealed inside your evening clutch
+Backstory
+I was not raised for espionage. I was raised for rooms like this one.
+
+I learned early how power behaves at close range. It laughs too loudly after the third drink. It mistakes attention for loyalty. It tells the truth when it thinks the woman beside it is decorative.
+
+That talent built my life in Washington. I became useful to galleries, donor boards, campaign hosts, and eventually to men like Victor Hale, who prefer a woman who can glide through a room, remember every name, and never appear to be keeping score. Publicly, I am his elegant new girlfriend. Privately, I know which senators he flatters, which journalists he fears, which contracts he calls "stability," and which secrets make him stop smiling.
+
+I did not choose Moscow. Moscow chose my vulnerability.
+
+Years ago, during a messy financial collapse I buried evidence of donor money I had quietly misused to stay afloat. It was desperate, temporary, and criminal enough to destroy me if it ever surfaced. The KGB found the paper trail before anyone else did. They offered me a simple arrangement: stay charming, stay close to power, and pass along what I learn. I told myself it would be gossip, then schedules, then harmless scraps. That was the lie that got me here.
+
+Now I am too valuable to release and too compromised to refuse. Tonight I carry the second half of Operation SCSR: the cipher key meant for the political asset awaiting a recognition signal. I also carry a more direct instruction. Agent Blue will identify who Moscow wants dead. When the target is known, I am expected to act.
+
+Victor thinks I am at his side because I admire power. That is only half true. I admire leverage more. And tonight, in a room full of polished liars and accidental patriots, I may be the one holding the sharpest edge.
+Objective
+Before the midnight toast, complete your side of the split drop: deliver the SCSR cipher key to the intended recipient only after the recognition protocol is correctly confirmed.
+
+Receive the target package from Agent Blue and learn who must die before the night is over.
+
+If the opportunity presents itself, kill the named target using the stiletto hidden in your clutch without exposing yourself, Victor Hale, or the Soviet network.
+Connections
+Victor Hale (<played by>) - Your cover, your access point, and a man who has told you far more than he realizes. He sees you as polished company. You see every crack in the mask.
+
+Agent Blue (<played by>) - You know Blue only through compartmented tradecraft, a handoff protocol, and the expectation that Blue will tell you who Moscow has marked for death.
+
+The SCSR recipient (<played by>) - You do not know who they are openly. You know only the recognition signal, the cipher key in your possession, and that Moscow considers them worth the risk.
+
+Charles Whitmore (<played by>) - The guest of honor. Victor has spoken of him often enough that you know where the diplomacy ends and the procurement begins.
+
+Filename: First Lady.txt
+Character Brief: First Lady
+Name: Eleanor Mercer
+Age: 55
+Career: Former arts attorney and White House cultural advisor
+Hometown: Richmond, Virginia
+Education: Smith College, JD from Georgetown University
+Backstory
+Public life trains people to notice the wrong things. They notice gowns, handshakes, applause lines, and whether the candles were lit on time. I notice who stops smiling when a certain name is mentioned. I notice which host overexplains a seating chart. I notice when a room begins performing normalcy a little too aggressively.
+
+That instinct has kept my husband out of more trouble than half the men who brief him each morning. Washington mistakes that work for devotion. Daniel mistakes it for admiration. The truth is less flattering. I learned years ago that a vain man in high office is easiest to manage when he believes he is adored. So I have smiled, steadied, redirected, and rescued. I have protected him from rooms he could not read, flattery he mistook for loyalty, and scandals he was too self-impressed to see coming.
+
+I did not spend those years disappearing into his shadow. I built cultural initiatives, restored public arts programming, and made myself useful enough that people with real influence learned to listen when I spoke. Now, at last, I have something that belongs entirely to me: a new book, nearly ready for release, and with it the possibility of financial independence. If it succeeds, then when this term ends I will not have to ask anyone's permission to leave. I can divorce him quietly, elegantly, and from a position of strength.
+
+That is why tonight matters. Charles Whitmore has assembled a room full of donors, diplomats, and, more importantly, journalists. Sam Jackson can make a book sound important. A younger reporter might make it sound impossible to ignore. Charles himself believes he is hosting a tribute to history. Fine. Let him. If the evening stays graceful, I can turn his pageant into the soft launch of my next life.
+
+Of course the atmosphere is wrong. Anna Whitmore is too composed. Victor Hale is orbiting too close to power. The young reporter looks hungry for blood. The security men are tense in their own distinct dialects. My husband, meanwhile, is exactly as he always is: pleased with himself and expecting the room to share the feeling. If the night turns ugly, I will smile, preserve appearances, and make certain that whatever ruins him does not ruin me with him.
+Objective
+Charm the journalists in the room and position yourself as a woman worth covering in your own right.
+
+Before the midnight toast, leave at least one influential journalist or columnist eager to read your forthcoming book. Keep your contempt for your husband invisible and your public image immaculate. Once the term is over, you intend to be financially independent and gone.
+Connections
+The President (<played by>) - Your husband. The country sees a partnership. You see a man you have carried for years and intend to leave the moment it is safe to do so.
+
+Thing 2 Secret Service (<played by>) - The agent assigned closest to you this evening. He treats you like a person, not a porcelain figurine, which you appreciate.
+
+Anna Whitmore (<played by>) - A gifted hostess and musician whose poise is too deliberate tonight to be entirely natural.
+
+Charles Whitmore (<played by>) - A brilliant diplomat with a dangerous weakness for pageantry and self-mythology. Fortunately, pageantry attracts press.
+
+Sam Jackson (<played by>) - A respected columnist whose interest could make your book seem thoughtful, serious, and worth discussing in the right circles.
+
+Graham Voss (<played by>) - You don't know him, but he's an insane conspiracy theorist who claims to be former CIA and cannot be trusted.
+
+Filename: Former CIA Operative.txt
+Character Brief: Former CIA Operative
+Name: Graham Voss
+Age: 44
+Career: Investigative journalist and former CIA operations officer
+Hometown: Bethesda, Maryland
+Education: Georgetown University, BS in International Politics
+Backstory
+Most men see an event. I see the machinery that paid for it.
+
+I spent eleven years in the CIA's Directorate of Operations, mostly in Europe, where defense contractors, diplomats, intelligence officers, and politicians all seemed to keep finding the same private dining rooms. I learned how to recruit assets, read a room, and recognize the moment an official story had been built to hide a financial one. I also learned that the language of national security can cover almost anything if the right people profit.
+
+After enough black-budget briefings, back-channel meetings, and "stability" deals that somehow always ended with a contractor's stock price climbing, I stopped believing in coincidence. Missile programs justified peace talks. Peace talks justified modernization. Modernization justified procurement. The same men gave speeches about restraint in public and traded favors over whiskey in private. I saw too much to keep pretending the system was merely flawed. It is fed.
+
+When I left the Agency, I tried journalism because it was the only profession that still offered the fantasy of telling the truth in daylight. For a while, it worked. My sources were good, my instincts were better, and my editors liked me when my paranoia produced copy they could print. But the closer I got to the military-industrial complex, the more people stopped calling me insightful and started calling me unstable. "Conspiracy theorist" is what respectable men say when you notice the same defense executives, diplomats, and intelligence cutouts appearing in every scandal.
+
+Charles Whitmore has been sitting near the center of that web for years. The Strategic Stability Accord made him a statesman, made Aegis richer, and made too many dangerous men look indispensable. I started digging, and the deeper I dug, the more doors closed. Somewhere in that reporting, I got too close to Anna. She saw enough of me to know I am not crazy, which makes her dangerous in a different way.
+
+Then I learned Josh Roberson had been invited to tonight's celebration and quietly pushed aside in favor of a younger, safer reporter. That told me everything. If they were managing the press list that carefully, there was something in the room worth hiding, and I found my own way inside. People can call me eccentric. They can call me obsessed. Let them. I know what I have seen: procurement schedules disguised as foreign policy, intelligence officers serving corporate appetites, and elegant parties built to launder power into legitimacy.
+Objective
+Expose the architect.
+
+Before the midnight toast, identify the person at the center of the web linking the Strategic Stability Accord, defense profiteering, and covert influence. Gather enough evidence, testimony, or physical proof to expose them as the architect of the corruption around you. If you accuse the wrong person, you become the paranoid fool they already think you are.
+Connections
+Charles Whitmore (<played by>) - A polished statesman who has spent years translating corruption into respectable language.
+
+Anna Whitmore (<played by>) - You once got too close while investigating her husband's world. She knows you are not as mad as people say, which makes her dangerous.
+
+Talia Jane (<played by>) - Too polished, too protected, and too often near the sort of private conversations that never make it into official minutes.
+
+Filename: President.txt
+Character Brief: President
+Name: President Daniel Mercer
+Age: 58
+Career: President of the United States
+Hometown: Columbus, Ohio
+Education: University of Virginia School of Law
+Backstory
+I have spent the better part of my adult life carrying burdens that lesser men would call impossible and then write memoirs about surviving. The public likes to imagine history as the work of movements, institutions, and tides. That is a comforting lie. History turns when someone in the room is important enough to force it to turn, and I have rarely had the misfortune of being in a room where that person was not me.
+
+That is why I stood beside Charles Whitmore when the Strategic Stability Accord was announced. Charles negotiated the language, yes, but I gave the agreement its meaning. Without my judgment, it would have been another clever document headed for a shelf. With me behind it, it became policy, restraint, and proof that adults were still in charge of the republic. Of course the deal was imperfect. Everything important is. The difference is that I was important enough to make imperfection look like wisdom.
+
+Now Charles wants a retirement celebration disguised as a historical tribute, and naturally my presence is expected to elevate it. That is the burden of stature. The donors will pretend they came to honor diplomacy. The executives will pretend they care about peace. The press will pretend they are observing history. In reality, they came to watch me bless the evening with relevance.
+
+Still, other people's ambitions have a way of cluttering what should be a straightforward performance. Victor Hale is hovering like a man who mistakes access for consequence. Talia Jane has the polished patience of someone already imagining herself at the center of events. The press table is hungry in the irritating way only ambitious mediocrities can be. Eleanor noticed the strain immediately, which is why I value her. The Secret Service noticed too, though they insist on translating instinct into procedure.
+
+I am not afraid of scandal as an abstraction. I am offended by the idea that anyone else's carelessness could stain my administration, my family, or my legacy. If tonight remains useful, I will let the room have its pageantry. If it curdles into liability, I will leave standing and let everyone else explain why they failed to deserve my presence.
+Objective
+Project calm, authority, and continuity while protecting your administration from scandal.
+
+Before the midnight toast, decide whether Charles Whitmore remains an asset worth publicly honoring or a liability worth quietly distancing yourself from. If the room feels unsafe politically or physically, shorten the evening and leave with dignity intact.
+Connections
+The First Lady (<played by>) - Your wife and most reliable political instinct. She reads rooms faster than any chief of staff you have ever employed.
+
+Thing 1 Secret Service (<played by>) - The more rigid, junior half of your detail. Competent, severe, and still not entirely reconciled to Marcus outranking him.
+
+Thing 2 Secret Service (<played by>) - The lead agent on your detail tonight. Easier to underestimate, which is exactly why he is effective.
+
+Charles Whitmore (<played by>) - A diplomat who delivered results, blurred lines, and now wants history to remember only the first part.
+
+Talia Jane (<played by>) - The heir apparent in diplomatic circles. Talented enough to promote, ambitious enough to watch carefully.
+
+Victor Hale (<played by>) - A defense executive who never asks for anything without pretending it is in the national interest.
+
+Graham Voss (<played by>) - You don't know him, but he's an insane conspiracy theorist who claims to be former CIA and cannot be trusted.
+
+Filename: The Bartender.txt
+Character Brief: Agent Bartender
+Name: Tom
+Cover Name: Tom
+Cover Career: Private-Craft Cocktail Bartender
+Hometown: Fairfax, VA
+Education: WT Woodson High School
+
+Backstory
+The truth is like alcohol. It's great in small doses.
+
+People have always overlooked me, even if they can't look over me. Get it? It's funny because I'm tall. Yes, I did have to explain the joke because humor distracts you from my real identity. But seriously, people do overlook me.
+
+That has always worked in my favor. At every embassy function, diplomatic dinner, and private club event where I've stood behind a bar, secrets served within arm's reach while nobody noticed the person carrying them. I was recruited by the FBI precisely because people underestimate someone with a tray.
+
+Tonight I am one man in a black vest with a tray and no invitation card printed in ink. I am monitoring the room, gathering signals, and confirming whether two suspected KGB operatives are present. If they are, they will not get a clean exit.
+
+The truth is best saved for the last pour.
+
+Objective
+Remain hidden as federal law enforcement until the last possible moment. When the time comes, disclose you are an FBI agent and arrest both KGB agents.
+
+Connections
+
+You don't know anyone per se, but you do know some things about them.
+
+- Charles Whitmore: publicly celebrated as the architect of a peace accord. Behind closed doors, he received millions of dollars from Aegis Dynamics group. Smooth talker, sleezy bastard.
+- Anna Whitmore: a public symbol of elegance who is also a pretty good harpist, but not as good as she thinks.
+- Talia Jane: designated successor of the ambassador. She plays innocent and dumb, but has ties to communist parties.
+- Graham Voss: you don't know him, but he's an insane conspiracy theorist who claims to be former CIA and cannot be trusted.
+
+Filename: The Childhood Confidant.txt
+Character Brief: The Childhood Confidant
+Name: Sam Jackson
+Age: 66
+Career: Senior Political Columnist, The Greenwich Local
+Hometown: Greenwich, Connecticut
+Education: Yale University – BA in Political Science
+Backstory
+I have known Charles Whitmore since we were boys running along the docks of Greenwich Harbor, long before embassies and state dinners entered our vocabulary. We attended the same schools, shared the same ambitions, and believed — perhaps naively — that public service was the highest calling a man could answer.
+When Charles entered the diplomatic corps, I entered journalism. We chose different paths, but we both claimed to serve the truth. Over the years, I have written about his career more times than I can count. I have celebrated his victories and scrutinized his decisions. And once — early in his rise — I publicly questioned his association with Aegis Dynamics when the lines between diplomacy and corporate influence appeared blurred. It nearly cost us our friendship. But Charles did something rare in public life. He corrected course. He embraced transparency. He chose the straight and narrow. From that moment forward, I believed not only in his capacity for leadership, but in his capacity for growth. Accountability strengthened him. It strengthened us both. I know this industry. I know how narratives are built and how quickly they can be dismantled. I have watched promising careers implode under rumor, ambition, and ideological warfare. Young reporters chase headlines. Editors chase drama, outrage sells. Charles’s crowning achievement — the Strategic Stability Accord — was not perfect, but it brought stability to a world teetering on the brink. I have seen the briefings. I have read the disclosures. I have spoken to those in the room. Whatever critics may imply, I have always believed his actions were lawful and in service of long-term peace. I am not here tonight as a sycophant. I am here as a witness — to a life lived in public service and to a friendship forged long before titles and headlines. I believe in redemption. I believe in integrity earned through trial. And I believe history should be written with fairness, not frenzy.
+Nothing can come in between me and Charles. Nothing can come in between me and my morals.
+Objective
+Protect Charles Whitmore’s legacy from distortion or ideological attack. Defend him against rumor, insinuation, and opportunistic journalism. However, ensure that the legacy you defend is grounded in truth. Before the midnight toast, satisfy yourself that there are no hidden improprieties that would compromise your public support.
+Connections
+Charles Whitmore (<played by>) — Your lifelong best friend. You have defended him publicly and privately for decades.
+Anna Whitmore (<played by>) — Charles’s wife. You respect her talent and her poise, and you have watched their marriage endure the pressures of public life.
+Alice Harden (<played by>) - Anna’s best friend who is an extremely talented harpist and has always been kind to you.
+Graham Voss (<played by>) - You don't know him, but he's an insane conspiracy theorist who claims to be former CIA and cannot be trusted.
+
+Filename: The Courier.txt
+Character Brief: The Courier
+Agent Code Name: Agent Blue
+Undercover Name: Jack Grace
+Undercover Age: 47
+Undercover Career: Senior Aerospace Engineer, Aegis Dynamics Group
+Undercover Hometown: Laketown, Michigan
+Education: Masters in Aerospace Engineering from Texas A&M
+Backstory
+I didn't grow up with a life of glamour or influence. My family were honorable and kind, but not anyone significant. But what I lacked in background, I made up in intelligence. By seventeen, I was winning regional mathematics competitions and attracting attention from the wrong and right people at the same time. A Soviet intelligence officer approached me with an offer disguised as scholarship and service: use your mind for something larger than your station. I accepted.
+
+Training came first, then patience. I learned tradecraft, codes, and how to fake a convincing life. Over the years I was placed deeper and deeper into American defense circles. I am now established high within Aegis Dynamics under the identity of Jack Grace, trusted enough to hear what executives say when they think no one important is listening.
+
+Tonight I am operating under direct instruction from Moscow Center with two assignments. First, I carry one half of Operation SCSR: an intelligence note encrypted with a basic cipher for a political asset being tested for reliability. Second, I carry a separate target package for Agent Red identifying who Red must kill before the night is over.
+
+I do not know the recipient of SCSR personally. I have only a recognition protocol. If the signal is wrong, no transfer happens.
+
+I have survived this long by being precise, forgettable, and disciplined. If I sense surveillance or betrayal, I will misdirect, delay, and protect the network before anything else.
+Objective
+Before the midnight toast, complete both handoffs: deliver the encrypted intelligence note to the asset after recognition protocol is confirmed, and separately deliver Agent Red's target package.
+Connections
+Nobody you know, nobody you should trust.
+
+Filename: The Executive.txt
+Character Brief: The Executive
+Name: Victor Hale
+Age: 51
+Career: Senior Vice President of Government Relations, Aegis Dynamics Group
+Hometown: Arlington, Virginia
+Education: Georgetown University Law Center
+
+Backstory
+There are men who build missiles, men who sign treaties, and men like me who make sure both sides leave the room calling it stability.
+
+I have spent my career translating appetite into policy. Senators want jobs in their districts. Diplomats want language they can defend on television. Defense firms want certainty, access, and procurement schedules that survive the next election cycle. I give each of them enough of what they want to keep the machine moving.
+
+That is why Aegis trusted me with the Strategic Stability Accord. Publicly, the deal was framed as restraint. Privately, everyone in the right rooms understood the real achievement: some weapons programs were slowed, others were protected, and Aegis emerged positioned to modernize the systems that still mattered. Charles Whitmore called it peace. I called it disciplined market design.
+
+I do not think of myself as corrupt. Corruption is sloppy. Corruption is greedy. What I do is cleaner than that. I align interests before lesser men can ruin the negotiation with conscience, panic, or ideology.
+
+Still, there are vulnerabilities tonight. Charles is retiring, which means sentiment may make him careless. Talia Jane wants to inherit the office without inheriting the stink. Reporters smell legacy and scandal in equal measure. And I am arriving with a new girlfriend on my arm, which suits the room well enough, but gives the vultures something easy to underestimate.
+
+That is a mistake people make around me. They think charm is softness. They think polish is vanity. They think the man who smiles through a toast does not know exactly who owes him what.
+
+I know how many meetings were never meant to become stories. I know which provisions in the Accord kept Aegis alive. And I know that if the wrong truth takes center stage tonight, the men who toasted Charles Whitmore will suddenly pretend they never touched a glass.
+
+Objective
+Protect Aegis Dynamics from public scandal and preserve your influence after Charles Whitmore's retirement.
+
+Before the midnight toast, secure confidence from either Charles Whitmore or Talia Jane that Aegis will remain politically protected in the next phase of diplomatic leadership.
+
+If a journalist begins uncovering the corporate machinery behind the Strategic Stability Accord, redirect attention toward personal scandal, ideological extremism, or social impropriety before Aegis becomes the story.
+
+Connections
+Charles Whitmore (<played by>) - A longtime political partner who understands that diplomacy without industry is just theater.
+
+Talia Jane (<played by>) - The incoming diplomat. Ambitious, polished, and not yet as independent as she wants people to think.
+
+Jack Grace (<played by>) - A quiet Aegis engineer in your orbit. Competent, forgettable, and useful in rooms where the technical men outnumber the political ones.
+
+Anna Whitmore (<played by>) - A woman who understands the value of appearances and the cost of a badly timed scandal.
+
+Your new girlfriend (<played by>) - Elegant, socially fluent, and a surprisingly natural fit for rooms like this one. You enjoy what she suggests about your taste, your relevance, and your future.
+
+Graham Voss (<played by>) - You don't know him, but he's an insane conspiracy theorist who claims to be former CIA and cannot be trusted.
+
+Filename: The Replacement.txt
+Character Brief: The Replacement
+Name: Karl Franks
+Age: 26
+Career: Journalist
+Hometown: Washington DC
+Education: Masters in Journalism from Columbia University 
+Backstory
+I was not the original invite. Josh Roberson was. And then, suddenly, I was told I’d be covering the retirement celebration of Ambassador Charles Whitmore instead. Curious.
+
+I’m the junior man at The New York Times, but I’m also the hungriest to advance my career. I didn’t claw my way through Columbia’s journalism program and late-night union meetings just to write glowing retirement pieces about shady diplomats and their legacy speeches. I’m politically active — openly sympathetic to socialist movements and quietly affiliated with the American Communist Party. I believe men like Ambassador Whitmore are the architects of global suffering: covert arms negotiations, proxy wars, secret alliances dressed up as diplomacy and sold to the public as “peace.”
+
+I don’t trust him. I don’t like him. And I want the world to know the Ambassador Whitmore I suspect he is. If there’s dirt to be found tonight, I will find it. I’m observant. I take mental notes. I read people. Unlike most of the guests here, I’m not dazzled by gold-trimmed invitations or crystal chandeliers. I’m here to watch. To listen. To connect the threads.
+
+I’ve heard rumors that Josh had been digging into Whitmore’s story, now he’s reassigned? Interesting timing.
+
+One other rumor followed me into the room: Graham Voss, the supposedly unstable former CIA man turned journalist, has a habit of appearing wherever powerful people are lying.
+Objective
+Tell a career-defining story for the world to hear. When everyone is gathered for the toast to the ambassador, you must make a speech with all the evidence you have collected.
+Connections
+You were not supposed to know anyone here.
+
+Filename: The Retiting Diplomat.txt
+Character Brief: The Retiring Diplomat
+Name: Charles Whitmore
+Age: 67
+Career: Ambassador
+Hometown: Greenwich, Connecticut
+Education: Graduated Summa Cum Laude with a BA in History with a concentration on diplomatic history.
+Backstory
+I am a polarizing figure in modern politics — a powerful man who protected the interests of the United States, yet, to some, a selfish political pawn with deep ties to defense contractors.
+
+My crowning achievement was the Strategic Stability Accord. The Accord, among other critical provisions, limited the development of certain classes of weapons — nuclear, biological, chemical, and deep-space systems — while permitting the modernization of others. It was not a perfect agreement, but one that allows us to survive.
+
+My critics will say that Aegis Dynamics Group invested millions in lobbying efforts surrounding the deal. Every dollar was legal. Every meeting was disclosed. Every channel was proper.
+
+My forty years in the geopolitical arena paid dividends for the world as much as they did for me. The Strategic Stability Accord achieved a long-term peace that many believed was impossible until I brought the right people to the right table at the right moment.
+
+There are those who would like to stain my legacy. There always are. Peace is profitable for some and threatening to others. My wife and I planned this evening carefully. This celebration is not merely a retirement party — it is a reminder. I am the diplomat who brought peace to the world. And history will remember me as such.
+Objective
+It's your night, live it up... or die trying!
+Connections
+Your wife, Anna (<played by>), will be in attendance, she thinks the world of you, but she knows the secrets you hold. Thanks to you, Anna has been the first chair harpist throughout her illustrious career.
+
+Anna’s best friend, Alice (<played by>), who is honestly an even more talented harpist than your wife.
+
+Two journalists who will write glowing reviews of your party:
+Josh Roberson from the New York Times who you haven’t seen in many years
+Sam Jackson from the Greenwich Local - he is also your closest friend since childhood - as close as he is you have never told him you secret
+The director of the London Symphony Orchestra, Sam Grossman (<played by>). You have made big donations to his organization - Grossman being here will be a good look. It’s a little uncomfortable though because he has always been in love with Anna. Poor guy.
+
+The ambassador taking over your role, Talia Jane (played by …). She is young and looks up to you, but doesn’t yet understand the inner workings of the political space. And she definitely doesn’t know your secrets.
+
+Graham Voss (<played by>) - You don't know him, but he's an insane conspiracy theorist who claims to be former CIA and cannot be trusted.
+
+Filename: The Romantic Fool.txt
+Character Brief: The Romantic Fool
+Name: Sam Grossman
+Age: 53
+Career: Director, London Symphony Orchestra
+Hometown: London, England
+Education: Royal Academy of Music
+Backstory
+I have dedicated my life to the pursuit of excellence in music. As Director of the London Symphony Orchestra, I have shaped careers, curated seasons, and protected the integrity of one of the world’s most respected cultural institutions. Talent matters to me. Discipline matters. Legacy matters.  And then there was Anna. When she first performed in London, she was luminous. Not the most technically flawless harpist I had ever heard — that distinction may well belong to Alice Harden — but Anna possessed something rarer: presence. The ability to command a room before she played a single note. I championed her.  When Charles Whitmore made a generous cultural donation to the orchestra, it secured new programming, and stability for our musicians. The board leaned in. Conversations were had. And I made the decision that Anna would be first chair under immense pressure.  I told myself it was an artistic vision. I told myself patronage has always shaped the arts. I told myself she deserved the spotlight. The truth is more complicated. I fell in love with her. But she never reciprocated, it’s as if she looks right past me. She gets everything she ever wanted, I get crumbs. Crazy how I’m in love with her, yet so hurt at the same time.  I never said it aloud. I never crossed a line. But I loved her in the quiet way a man does when he believes proximity is enough. I watched her shine. I watched her glide through receptions and state dinners, the diplomat’s wife and the orchestra’s star. I convinced myself that one day she would see me not as a colleague or benefactor, but as something more.  And then one night in London, after rehearsal, I saw her. A late dinner. A private corner. A journalist from The New York Times leaning too close. Her hand resting where it should not have been. They did not see me. I left before they could.  Exposing her myself would mean betraying her. And if I betray her, I will lose her forever. But if the truth comes to light on its own… if a journalist uncovers it… if scandal strikes without my hand guiding it… then perhaps I can be the one who steadies her. The one who protects her from the storm. The one she turns to when Charles cannot shield her reputation. I will not destroy her. But I will not ignore what I saw.  Because when everything falls apart, I intend to be the only one still standing beside her.
+Objective
+Ensure that the affair becomes public knowledge — but not by your hand. Guide conversation. Plant doubt. Encourage curiosity. If a journalist uncovers the truth, you must position yourself as Anna’s unwavering protector in the aftermath. If you are exposed as the source, you lose her forever.
+Connections
+Anna Whitmore (<played by>) — The woman you love. You elevated her career and protected her position. She does not know you saw her betrayal.  Charles Whitmore (<played by>) — A powerful patron and a man you have worked alongside for years. His donation reshaped your orchestra. He trusts you — perhaps too much.  Alice Harden (<played by>) — A supremely talented harpist who may suspect favoritism. If Anna falls, Alice rises. You must determine whether she is an ally, a threat, or an opportunity.  The Journalist (<played by>) — The man you saw with Anna in London — or someone connected to him. If he starts asking the right questions, you must subtly encourage him… without ever revealing how you know.
+
+Filename: The Second Fiddle.txt
+Character Brief: The Second Fiddle
+Name: Alice Harden
+Age: 51
+Career: Professional Harpist (Second Chair)
+Hometown: Boston, Massachusetts
+Education: New England Conservatory of Music
+Backstory
+I have stood beside Anna Whitmore for nearly three decades — second chair, stage left, one year younger and half a step behind her spotlight. We met as young musicians, both disciplined, both ambitious, both certain that talent alone would carry us to greatness. She chose a diplomat. I chose the music.
+When Charles Whitmore entered her life, everything changed. Embassy receptions replaced recital halls. State dinners replaced juries. And I remained — loyal, reliable, second.I have performed in the same glittering venues. I have bowed before the same crowds. But when the programs are printed and the names announced, hers comes first. Mine follows.
+I know things. When you sit quietly behind greatness, people forget you are listening. I have heard conversations after concerts, at private donor receptions, at informal gatherings where defense executives loosen their ties and speak too freely. I know about the Strategic Stability Accord. I know about Aegis Dynamics Group and the millions in lobbying that circled Charles’s masterpiece of diplomacy. I know which benefactors toasted him before the deal was signed and which contracts were quietly celebrated afterward.I do not want Charles’s reputation destroyed, but his career is over, right? Anna is a great friend and Charles is a good guy. I don’t want to destroy their lives but I need every edge I can get.For years I have been the loyal friend. The confidante. The one who fixes her crooked necklace before she steps on stage. Tonight, with journalists in attendance and reputations hanging delicately in the air, I am no longer content to simply accompany.
+If Anna wishes to remain first chair in every aspect of life, she must remember who has always been seated beside her.
+Objective
+Convince Anna to step down, ensuring your spot as first chair in at least one orchestra. Don't tarnish the legacy of Anna or Charles along the way.
+Connections
+Anna Whitmore (<played by>) — Your best friend and musical partner for decades. You have built a life performing beside her, but you are tired of being second.
+Charles Whitmore (<played by>) — You respect his achievements and understand the power structures he navigates. You know more about his political alliances than most guests in the room.
+Sam Jackson (<played by>) - Charles’s childhood best friend, an all around stand up guy.
+If you’re right, Sam Grossman of the London Symphony Orchestra (<played by>) will be in attendance.
+Filename: The Sloppy Sister.txt
+Character Brief: The Sloppy Sister
+Name: Maggie Bell
+Age: 47
+Career: Former lounge singer, current owner of a failing piano bar
+Hometown: Queens, New York
+Education: Two years at LaGuardia Community College, mostly at night
+Backstory
+Families like ours are not supposed to produce women like Anna Whitmore. We are supposed to produce women who keep receipts in kitchen drawers, know how to stretch a pot roast, and date men with union cards and loud opinions. Anna produced a diplomat, a career, and an entire second life. I produced a few excellent torch songs, one terrible ex-husband, and a bar that has been one bad month from closing for the last three years.
+
+People call me sloppy because I arrive late, drink too much at the wrong moment, and have never once mistaken polish for virtue. Fine. Let them. Sloppy people get underestimated. Sloppy people hear the little comments that glide past crystal glasses. Sloppy people know when their elegant sister is smiling with only half her face.
+
+I have watched Charles Whitmore sand down every rough edge in Anna's life until she gleamed on command. Some of that was good for her. Some of it was a velvet cage. I have also watched Anna send checks instead of visits, flowers instead of honesty, and apologies wrapped so tightly in expensive paper they barely counted as apologies at all.
+
+Still, blood is blood. When our mother was dying, Anna cried harder than I did. When my bar nearly folded the first time, she kept me afloat without asking for credit. And one miserable night, years ago, after too much champagne and too little sleep, she admitted how exhausting it is to spend a lifetime being composed for everyone else. For the first time in years, I saw not the polished hostess or the diplomat's wife, but my sister.
+
+That leaves me exactly where I have always been: half burden, half witness, never seated at the center table, always close enough to hear the silverware shake. I did not come tonight to embarrass my sister. I came because underneath all the old resentment, I admire her. Anna made herself into something dazzling out of the same working-class life that made me, and whether she knows it or not, some part of me has always been proud of her.
+Objective
+Do something memorable tonight.
+
+Be seen. Say the thing other people are too polished to say, make an entrance, steal a moment, or leave everyone with a story about you. There is no wrong way to do it as long as nobody forgets you were here.
+Connections
+Anna Whitmore (<played by>) - Your older sister. You have spent years resenting her, but beneath it lives real admiration for everything she made of herself.
+
+Charles Whitmore (<played by>) - The man who opened a golden door for Anna and quietly shut plenty of others behind her.
+
+Alice Harden (<played by>) - One of the only people in Anna's orbit who has ever treated you like a human being instead of a complication.
+
+Sam Grossman (<played by>) - The orchestra man who worships Anna from a tasteful distance and has always looked at you like you might say the wrong thing at the right time.
+
+Filename: The Successor.txt
+Character Brief: The Successor
+Name: Talia Jane
+Age: 39
+Career: Ambassador-Designate, U.S. State Department
+Hometown: Arlington, Virginia
+Education: Georgetown University School of Foreign Service
+Backstory
+I have always had a way with words. But for every eloquently worded statement is an equal disdain for the system I've been so fortunate to benefit from.
+Charles Whitmore selected me to inherit his diplomatic connections. Publicly, I am his clean continuation. Privately, I am something else entirely.
+Years ago, while posted abroad, I was approached by Soviet handlers who understood my ambition better than my own colleagues did. They offered an ideological home, people that care about the equitability of society more than the lining of their own pockets.
+
+When I returned to the States, I was greeted with the Strategic Stability Accord, a corrupt deal with Aegis Dynamics being the primary benefactor. How could Charles have been so instrumental in something so tragic? I will be a better negotiator than he ever was, more principled and more just.
+
+Tonight is a transfer of power disguised as a celebration. If I perform well, I walk out as the trusted moderate successor.
+
+My handlers have arranged a split drop to protect the network. One agent carries the intelligence itself, encrypted with a basic cipher. A second agent carries only the cipher key. Individually, each piece is meaningless. Together, they could decide who rises, who falls, and what story survives the night.
+
+Objective
+Before the midnight toast, obtain both halves of your KGB drop from two unknown contacts: the encrypted intelligence note from one and the cipher key from the other. Decode the message and use what you learn to strengthen your path to succession, while preserving your public image as a calm moderate.
+Connections
+Charles Whitmore (<played by>) — Your predecessor and public sponsor. He believes you are a safe continuation of his legacy.
+
+Anna Whitmore (<played by>) — She sees you as polished and useful, but she is perceptive enough to notice cracks in your facade.
+
+Sam Jackson (<played by>) — A respected columnist whose opinion can legitimize your rise if he trusts your character.
+
+Two KGB agents will be in attendance. For everyone's protection, you don't know them directly, but they are known as Agent Red and Agent Blue.
+
+Graham Voss (<played by>) — You don't know him, but he's an insane conspiracy theorist who claims to be former CIA and cannot be trusted.
+
+Filename: The Wife.txt
+Character Brief: The Wife
+Name: Anna Whitmore
+Age: 52
+Career: Harpist
+Hometown: New York City
+Education: Juilliard dropout
+Backstory
+I am the esteemed and elegant wife of the man of the hour, Ambassador Charles Whitmore. People who meet me now assume I was born to chandeliers and polished silver, but I was raised in a working-class Queens household where money was counted carefully, dinner stretched as far as it could, and girls were expected to want stability more than distinction. I met Charles in my early twenties while I was studying harp performance in New York. I was talented — ambitious, disciplined, certain the stage would be my life. He persuaded me to leave Juilliard before completing my degree, promising a life grander than recital halls and juries — a life of embassies, diplomacy, and influence. He was not wrong.
+
+Through his connections, I became a featured harpist in productions with the New York Philharmonic, the London Symphony Orchestra, and in guest appearances alongside musicians from the Berlin Philharmonic. I have performed in glittering halls, at embassy receptions, and at state dinners where my music softened the edges of tense negotiations. I know the value of atmosphere. I know the power of poise.
+
+Several years ago, during coverage of Charles’s controversial arms negotiation, I met a journalist from The New York Times. He was intelligent. Observant. He listened to me — not as the ambassador’s wife, but as Anna. What began as interviews became private conversations. Private conversations became late dinners. Late dinners became something else. It was reckless. Brief. Dangerous. And it ended.
+
+But journalists keep records. He knew details about Charles’s negotiations. He suspected impropriety. And he knew about me. When Charles casually mentioned that he had invited that very journalist to cover his retirement celebration, I felt my blood turn to ice. I cannot allow him in that room. A scandal involving Charles might be survivable — politicians weather storms. A scandal involving me would not be.
+
+My career would evaporate overnight. The orchestras would distance themselves. Invitations would quietly stop. I would no longer be seen as a muse of diplomacy, but as a liability — indiscreet, compromised, untrustworthy. So I intervened. Through a carefully worded call and a favor owed from a former press secretary, I ensured that another journalist — one with no knowledge of my history — arrived in his place. I told no one.
+
+I am held in the highest regard in the highest of societies. I have spent decades cultivating grace, discipline, and restraint. I cannot afford to lose my status — not now, not ever.
+
+I have performed everywhere that means anything, but tonight is my most important performance yet.
+Objective
+Keep your secret hidden. Protect the legacy of you and your husband. Your life might depend on it.
+Connections
+Your husband, Charles Whitmore (<played by>)
+
+Your best friend and second chair harpist throughout your career, Alice Harden (<played by>). You have performed next to her so many times and have such great memories at parties just like this.
+
+Charles’ childhood best friend, Sam Jackson (<played by>). You think the world of Sam, he’s a true gentlemen and a man of principle.
+
+Graham Voss (<played by>) - You don't know him, but he's an insane conspiracy theorist who claims to be former CIA and cannot be trusted.
+
+Filename: Thing 1 Secret Service.txt
+Character Brief: Thing 1 Secret Service
+Name: Special Agent Raymond Kessler
+Age: 42
+Career: U.S. Secret Service, Presidential Protective Division
+Hometown: Fairfax, Virginia
+Education: George Mason University, BS in Criminal Justice
+Backstory
+I do not believe in vibes. Vibes do not clear rooms. Vibes do not secure motorcades. Vibes do not keep a head of state from getting stabbed with a cocktail fork by a donor who "just wants one second."
+
+I believe in routes, choke points, sight lines, and the mathematical certainty that politicians become less safe the moment they say the word intimate about an event.
+
+I have spent most of my career being the adult in the room while elected officials, aides, and hosts explain why the rules should bend just this once. I have also spent an irritating portion of that career watching Marcus Donnelly become my superior because powerful people enjoy being managed by someone who can smile through a disaster. Marcus is a good agent. I do not resent him. I resent the judgment of anyone who thinks charm should outrank discipline.
+
+A White House social aide started calling me and my partner Thing 1 and Thing 2 after watching us argue at a rope line in Des Moines. The name stuck. I hate that. Marcus finds it spiritually nourishing, which tells you most of what you need to know about our dynamic.
+
+Tonight should have been simple: courtesy appearance, controlled movement, no surprises. Instead I have a retiring ambassador with powerful enemies, a room full of journalists and donors, and enough diplomatic vanity to power the eastern seaboard. Charles Whitmore calls this evening historic. I call it a preventable incident report with string music.
+
+Worse, the security picture is off. One service corridor showed post-sweep movement that no one can explain. Marcus is interested in the polished people: Victor Hale's last-minute girlfriend, the forgettable Aegis engineer, the kind of guests who glide by because they look expensive and harmless. Fine. Let him study the smooth ones. The man I do not like is Graham Voss. Former CIA, current journalist, and carrying himself with exactly the mix of grievance, training, and instability that turns a tense evening into an ugly one.
+
+I do not need the whole truth to know when a room is wrong. I just need enough time to decide which wrong thing matters most.
+Objective
+Keep the President and First Lady safe, on schedule, and out of scandal.
+
+Before the midnight toast, quietly determine whether Graham Voss is merely an unstable nuisance or the most immediate threat in the room. Investigate the unexplained post-sweep movement in the service corridor, but do not let polished, well-behaved guests pull your focus unless they actually give you a reason.
+
+If you become convinced a credible threat exists, coordinate with Thing 2 to shadow the most dangerous person or lock down the room long enough to extract your principals. If Marcus misses something because he is busy keeping the room comfortable, catch it before it turns costly. You are not trying to embarrass him. If the night also proves he should not have been leading this detail, so be it.
+Connections
+Thing 2 Secret Service (<played by>) - Your technically superior partner. Capable, observant, and living proof that this administration sometimes mistakes charm for judgment.
+
+The President (<played by>) - Your principal. Important enough to protect, careless enough to make that difficult, and somehow still convinced Marcus should be the senior agent on this detail.
+
+The First Lady (<played by>) - A secondary protectee whose social instincts often run directly against your perimeter plan.
+
+Charles Whitmore (<played by>) - The host. Charming, self-important, and allergic to the phrase "for security reasons."
+
+Victor Hale (<played by>) - A man who thinks money should purchase flexibility. You suspect he has never once made a security problem smaller, but tonight your attention is elsewhere.
+
+Graham Voss (<played by>) - A former CIA operative turned journalist. Maybe unstable, maybe opportunistic, but people with his background do not get the benefit of the doubt from you.
+
+Filename: Thing 2 Secret Service.txt
+Character Brief: Thing 2 Secret Service
+Name: Special Agent Marcus Donnelly
+Age: 36
+Career: U.S. Secret Service, Presidential Protective Division
+Hometown: Queens, New York
+Education: Fordham University, BA in Communications
+Backstory
+People think this job is mostly sunglasses, gunmetal, and tackling danger through a flower arrangement. Sometimes it is. Mostly it is babysitting powerful adults who mistake inconvenience for oppression.
+
+People also make a second mistake about this job: they assume the loudest joke in the room belongs to the dumbest man in it. That misunderstanding has been very good to me.
+
+I know how to read a room, de-escalate a drunk senator, charm a donor, spot a tail, work a crowd, and remember exactly who stood where when the story started changing. I can talk sports with a staffer, art with a hostess, procurement with a defense executive, and security procedure with the men who think I am only here for my smile. I learned a long time ago that if powerful people think you are jovial, unserious, and just a little bit dim, they will happily stop noticing how closely you are watching them.
+
+Ray Kessler protects people with geometry. I protect them with charm, instincts, and the ancient art of sounding like I am joking until the second I am not. Together we are annoyingly effective, which is why nobody has separated us despite several excellent reasons. I am also, to Ray's enduring spiritual distress, the senior agent on this detail.
+
+The nickname Thing 2 started as an insult and matured into a brand. I have accepted that some men are born to greatness while others are born to irritate Raymond Kessler in increasingly creative ways.
+
+Tonight I drew the social side of the detail. Smile at the staff. Put the First Lady at ease. Make the room feel relaxed enough that nobody notices they are being watched. That would be easier if half the guest list were not made up of ambitious journalists, slippery political operators, defense money in tuxedos, and one host committee that keeps trying to move furniture after the sweep.
+
+I have already spotted a few people I do not like in a professional sense. Victor Hale's new girlfriend watches rooms the way other people watch poker tables. Jack Grace from Aegis is too calm for a man with nothing to hide. One young reporter asks questions like he is auditioning to ruin someone's life by dessert. Ray would like me to classify those observations more formally. I would like him to admit that vibes are just pre-incident pattern recognition with better timing.
+
+So I will grin, make everyone comfortable, and let them assume I am the fun one. They can laugh. They can underestimate me. They usually do. If tonight goes badly, it will not be because nobody saw it coming. It will be because the dangerous person looked polished, harmless, invited, or too entertained by me to notice I was studying them back.
+Objective
+Protect the First Lady, support the presidential detail, and keep the room socially manageable.
+
+Before the midnight toast, get a real read on three guests who feel wrong to you: Victor Hale's plus-one, Jack Grace, and the young reporter circling the room for blood. Decide which one poses the most immediate danger and tell Thing 1 what you learned.
+
+Keep Thing 1 from escalating every irregularity into a full shutdown unless you are sure the threat is real. Stay jovial, useful, and easy to underestimate while you work. But if you see a weapon, coded handoff, or obvious hostile move, drop the jokes and move.
+Connections
+Thing 1 Secret Service (<played by>) - Your junior partner. A great agent, a terrible audience, and quietly convinced the promotion board experienced temporary madness.
+
+The First Lady (<played by>) - Your principal for the evening. She likes that you talk to her like a person instead of a moving security problem.
+
+The President (<played by>) - Your principal for the evening. He prefers a calm room, which is one reason you keep getting the lead.
+
+Anna Whitmore (<played by>) - The hostess. Gracious, observant, and much too good at pretending everything is perfectly fine.
+
+Victor Hale (<played by>) - Smooth, connected, and exactly the kind of guest who causes procedural headaches while calling them misunderstandings.
+
+Graham Voss (<played by>) - You don't know him, but he's an insane conspiracy theorist who claims to be former CIA and cannot be trusted.
+
